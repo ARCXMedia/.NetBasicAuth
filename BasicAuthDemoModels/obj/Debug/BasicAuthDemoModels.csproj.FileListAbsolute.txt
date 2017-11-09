@@ -1,0 +1,5 @@
+C:\GitHubProjects\BasicAuthDemo\BasicAuthDemoModels\bin\Debug\BasicAuthDemoModels.dll
+C:\GitHubProjects\BasicAuthDemo\BasicAuthDemoModels\bin\Debug\BasicAuthDemoModels.pdb
+C:\GitHubProjects\BasicAuthDemo\BasicAuthDemoModels\obj\Debug\BasicAuthDemoModels.csprojResolveAssemblyReference.cache
+C:\GitHubProjects\BasicAuthDemo\BasicAuthDemoModels\obj\Debug\BasicAuthDemoModels.dll
+C:\GitHubProjects\BasicAuthDemo\BasicAuthDemoModels\obj\Debug\BasicAuthDemoModels.pdb

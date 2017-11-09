@@ -1,0 +1,10 @@
+C:\GitHubProjects\BasicAuthDemo\BasicAuthDemo.Console\bin\Debug\BasicAuthDemo.Console.exe.config
+C:\GitHubProjects\BasicAuthDemo\BasicAuthDemo.Console\obj\Debug\BasicAuthDemo.Console.csprojResolveAssemblyReference.cache
+C:\GitHubProjects\BasicAuthDemo\BasicAuthDemo.Console\bin\Debug\BasicAuthDemo.Console.exe
+C:\GitHubProjects\BasicAuthDemo\BasicAuthDemo.Console\bin\Debug\BasicAuthDemo.Console.pdb
+C:\GitHubProjects\BasicAuthDemo\BasicAuthDemo.Console\bin\Debug\BasicAuthDemo.Business.dll
+C:\GitHubProjects\BasicAuthDemo\BasicAuthDemo.Console\bin\Debug\BasicAuthDemoModels.dll
+C:\GitHubProjects\BasicAuthDemo\BasicAuthDemo.Console\bin\Debug\BasicAuthDemo.Business.pdb
+C:\GitHubProjects\BasicAuthDemo\BasicAuthDemo.Console\bin\Debug\BasicAuthDemoModels.pdb
+C:\GitHubProjects\BasicAuthDemo\BasicAuthDemo.Console\obj\Debug\BasicAuthDemo.Console.exe
+C:\GitHubProjects\BasicAuthDemo\BasicAuthDemo.Console\obj\Debug\BasicAuthDemo.Console.pdb

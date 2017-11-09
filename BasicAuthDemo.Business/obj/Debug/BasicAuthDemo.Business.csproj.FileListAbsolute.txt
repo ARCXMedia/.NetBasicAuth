@@ -1,0 +1,11 @@
+C:\GitHubProjects\BasicAuthDemo\BasicAuthDemo.Business\bin\Debug\BasicAuthDemo.Business.dll
+C:\GitHubProjects\BasicAuthDemo\BasicAuthDemo.Business\bin\Debug\BasicAuthDemo.Business.pdb
+C:\GitHubProjects\BasicAuthDemo\BasicAuthDemo.Business\bin\Debug\BasicAuthDemoModels.dll
+C:\GitHubProjects\BasicAuthDemo\BasicAuthDemo.Business\bin\Debug\BasicAuthDemoModels.pdb
+C:\GitHubProjects\BasicAuthDemo\BasicAuthDemo.Business\obj\Debug\BasicAuthDemo.Business.csprojResolveAssemblyReference.cache
+C:\GitHubProjects\BasicAuthDemo\BasicAuthDemo.Business\obj\Debug\BasicAuthDemo.Business.dll
+C:\GitHubProjects\BasicAuthDemo\BasicAuthDemo.Business\obj\Debug\BasicAuthDemo.Business.pdb
+C:\GitHubProjects\BasicAuthDemo\BasicAuthDemo.Business\bin\Debug\Newtonsoft.Json.dll
+C:\GitHubProjects\BasicAuthDemo\BasicAuthDemo.Business\bin\Debug\System.Net.Http.Formatting.dll
+C:\GitHubProjects\BasicAuthDemo\BasicAuthDemo.Business\bin\Debug\Newtonsoft.Json.xml
+C:\GitHubProjects\BasicAuthDemo\BasicAuthDemo.Business\bin\Debug\System.Net.Http.Formatting.xml
